@@ -1,4 +1,4 @@
-import validator from 'stylelint-csstree-validator';
+import validator from '@carlosjeurissen/stylelint-csstree-validator';
 import ruleTester from './utils/tester.js';
 
 const { rule, ruleName, messages } = validator;

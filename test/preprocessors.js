@@ -1,4 +1,4 @@
-import validator from 'stylelint-csstree-validator';
+import validator from '@carlosjeurissen/stylelint-csstree-validator';
 import lessSyntax from 'postcss-less';
 import scssSyntax from 'postcss-scss';
 import ruleTester from './utils/tester.js';
